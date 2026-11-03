@@ -15,7 +15,7 @@
 定稿后还要**多轮补材料、纠错**并留下修改追溯？<br>
 公开专利晦涩难懂，想**快速看懂权要与落地语境**？
 
-[初衷](#初衷) · [运行效果](#运行效果) · [子技能列表](#子技能列表) · [支持作者](#支持作者) · [参考文档](#参考文档) · [安装说明](INSTALL.md) · [技能入口](SKILL.md)
+[初衷](#初衷) · [运行效果](#运行效果) · [子技能列表](#子技能列表) · [参考文档](#参考文档) · [安装说明](INSTALL.md) · [技能入口](SKILL.md)
 
 </div>
 
@@ -185,27 +185,6 @@
 <td nowrap><a href="skills/patent-exam-policy/README.md">详情</a></td>
 </tr>
 </tbody>
-</table>
-
----
-
-## 支持作者
-
-如果这个 Skill 对您有帮助，可以请我喝杯咖啡☕随缘支持，感谢感谢🙏🙏
-
-<table width="70%" border="1" cellpadding="12" cellspacing="0">
-<tr>
-<th width="40%" align="center">随缘支持</th>
-<th width="60%" align="center">Star History</th>
-</tr>
-<tr>
-<td width="40%" valign="middle" align="center">
-<img src="docs/thanks.jpg" alt="随缘支持" width="200" />
-</td>
-<td width="60%" valign="middle" align="center">
-<img alt="Star History Chart" src="https://raw.githubusercontent.com/handsomestWei/patent-disclosure-skill/star-history/star-history.svg" width="100%" />
-</td>
-</tr>
 </table>
 
 ---
